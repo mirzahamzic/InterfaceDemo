@@ -22,7 +22,7 @@ static CustomerModel GetCustomer()
         FirstName = "Time",
         LastName = "Corey",
         City = "Scranton",
-        EmailAddress = "tim@tim.ba",
+        EmailAddress = "tim@acme.ba",
         PhoneNumber = "555-12345"
     };
 }
